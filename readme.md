@@ -6,7 +6,7 @@ You can try the bot out by downloading the .zip from https://github.com/MasterCo
 npm install @slack/bolt
 
 ```
-to install dependencies and packages and then unzip the file. Create a .env file with ``export SLACK_APP_TOKEN= 
+to install dependencies and packages and then unzip the file. Create a .env file with ```export SLACK_APP_TOKEN= 
 export SLACK_SIGNING_SECRET=
 export SLACK_BOT_TOKEN=
 
